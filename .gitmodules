@@ -1,0 +1,3 @@
+[submodule "AngleTracking"]
+	path = AngleTracking
+	url = https://github.com/JonataCSantos/AngleTracking.git
